@@ -1,3 +1,3 @@
-# terigrossheim.github.io
-# new website in progress
+terigrossheim.github.io
+new website in progress
 
